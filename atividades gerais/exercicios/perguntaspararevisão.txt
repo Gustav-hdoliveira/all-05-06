@@ -1,0 +1,86 @@
+Variaveis:
+    (1): Defina 4 Variaveis que falem sobre você, sendo elas o seu nome; sua idade;
+    sua terra de origem e sua situação de profissional.
+    coloque todas essas informações em uma frase.
+
+    (2): Escreva 2 numeros diferentes e os coloque em Variaveis,
+    faça soma. subtração, multiplicação, divizão e resto
+
+Loop:
+    (1): Faça um while que faça uma contagem regressiva
+    a partir de um numero celecionado por você, mas tambem deve indicar
+    se cada numero é par ou impar
+
+    (2): Faça um while que pergunta no terminal um numreo entre 1 a 10
+    e enquanto não for selecionado o numero correto, a pergunta se repetira.
+
+objetos:
+    (1)use readlinesync para perguntar no terminal o seu nome; sua idade;
+    sua terra de origem e sua situação de profissional.
+    com isso coloque as informações em um objeto, e exiba as informações
+    separadas e indicadas em um quadro.
+    exemplo:
+    _____________________________
+    |Nome: Fulano de Tal
+    |idade:
+    |Terra natal:
+    |situação profissional:
+    _____________________________
+
+    (2) Altere essa variavel e adicione os valores: data de nascimento e 
+    formacôes profissionais (como um array)
+
+arrays:
+    (1) Faça uma lista de compras com o que deve ser comprado em um mercado, 
+    colocando os objetos dentro de um array e exiba
+
+    (2) Calcule quantos elementos existem no array, e exiba cada elemento separadamente 
+    em um texto explicando o que deve ser comprado
+
+condicionais:
+    (1) Use readlinesync para fazer uma pergunta para escolher um numero de apenas um digito
+    e apos apos isso use um if para dizer se é maior, menor, ou igual ao numero correto
+
+    (2) Na lista de compras, você possui um limite de quantos objetos você pode comprar
+    com seu dinheiro em mãos, se passar disso, você tera que usar o cartão de credito,
+    e se for alto demais, não podera comprar por conta do limite do cartão, você deve
+    narrar os resultados com if else.
+
+stryngs:
+    (1) Coloque cada parte do texto abaixo em variaveis diferentes, e alinhe de forma que
+    faça sentido com console.log
+    Se é amor...
+    Que seja tudo isso junto!
+    Se é paixão...
+    Não sei nem mais dizer
+    Se é amizade...
+    O que sinto por você...
+    Mas suspeito fortemente
+
+    (2) Defina variaveis 3 variaveis e coloque elas em um texto sem utilizar uma virgula
+    para quebralo.
+    exemplo: "blabla", const,"blabla" não pode.
+
+comparadores:
+    (1) Escolha dois numeros, coloqueos em variaveis e compare cada um deles de todas as
+    formas passadas.
+
+    (2) Faça um if para dizer se os dados inceridos dentro de um objeto, idade carteira de
+    trabalho etc, e coloque as idades minimas para a confirmação.
+
+Comparadores Logicos:
+    (1) Dentro de variaveis existem os dados pessoais de uma pessoa que esta indo ao
+    esterior do pais, se ela tive 18 anos e passagem legalizada ela pode ir viajar, mas, 
+    se ela não tiver carteira de motorista daquele pais, ela não poderá dirigir.
+    Use os dados nas variaveis para definir se poderá ou não dirigir, e as repostas devem
+    ser mostradas.
+
+    (2) Faça um sistema de senhas em que uma senha é inserida, e se estiver incorreto,
+    você é notificado e precisa tentar de novo, até acertar ou apertar em sair.
+
+funções:
+    (1) Faça uma tabuada do numero que for incerido na função usando Loop.
+
+    (2) Use a função para fazer uma mini calculadora, faça 4 funções, uma para soma, outra 
+    para subtração, multiplicação e divizão, então chame a desejada e insira os numeros
+    que desja calcular.

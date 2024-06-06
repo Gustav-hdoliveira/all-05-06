@@ -1,0 +1,28 @@
+h1{
+    color:blue;
+}
+.titulo2{
+    color:blueviolet;
+}
+body{
+    background-color: rgb(19, 156, 15);
+}
+button {
+    background-color: rgb(77, 246, 11);
+    border: none;
+    color:white;
+    padding: 15px;
+    font-size: 16px;
+    margin: 4px;
+    border-radius: 10px;
+} 
+button:hover {
+    background-color: #19f824;
+    color: black
+}
+
+#imagem {
+    display: none;
+    max-width: 50%;
+    height: auto;
+}
